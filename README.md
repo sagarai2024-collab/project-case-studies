@@ -19,3 +19,7 @@ For code you can run, see [ConsumerChatbot](https://github.com/sagarai2024-colla
 | [DevOps automation](devops-automation/) | Practice notes | | DevOps | Azure DevOps YAML, Azure AD PIM, App Service slots, Application Insights | Release process: gated approvals, slot swaps, observability |
 
 Client names appear as they do on my resume. Diagrams are simplified and leave out client-internal detail.
+
+## Licence
+
+© 2026 Sagarika Chakraborty. All rights reserved, see [LICENSE](LICENSE). Do not copy or reuse without written permission.
